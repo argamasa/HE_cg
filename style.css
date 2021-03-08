@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/10716138/original_d4be3202fc34090749f8ab01d32c1858.png?1613085903?bc=0");
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+h1 {
+    color: White;
+    font-size: 25pt;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+
+a {
+    color: White;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.ardilla:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.ardilla {
+    position: fixed;
+    top: 85%;
+    right: 32%;
+}
+
+.caballo:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.caballo {
+    position: fixed;
+    top: 19%;
+    right: 28.3%;
+}
+
+.cabra:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.cabra {
+    position: fixed;
+    top: 58%;
+    right: 27%;
+}
+
+.cerdo:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.cerdo {
+    position: fixed;
+    top: 68%;
+    right: 30%;
+}
+
+.conejo:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.conejo {
+    position: fixed;
+    top: 45%;
+    right: 29%;
+    }
+
+.delfin:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}    
+    
+.delfin {
+    position: fixed;
+    top: 80%;
+    right: 46%;
+}
+
+.escarabajo:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.escarabajo {
+    position: fixed;
+    top: 28%;
+    right: 33%;
+}
+
+.gallina:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.gallina {
+    position: fixed;
+    top: 36%;
+    right: 37%;
+}
+
+.gato:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.gato {
+    position: fixed;
+    top: 49%;
+    right: 34%;
+}
+
+.hamster:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.hamster {
+    position: fixed;
+    top: 28%;
+    right: 24%;
+}
+
+.lobo:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.lobo {
+    position: fixed;
+    top: 57%;
+    right: 45.5%;
+}
+
+.mono:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.mono {
+    position: fixed;
+    top: 86%;
+    right: 66%;
+}
+
+.oveja:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.oveja{
+    position: fixed;
+    top: 49%;
+    right: 42%;
+}
+
+.perro:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.perro {
+    position: fixed;
+    top: 80%;
+    right: 60%;
+}
+
+.pez:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.pez {
+    position: fixed;
+    top: 34.3%;
+    right: 28%;
+}
+
+.rana:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.rana {
+    position: fixed;
+    top: 58%;
+    right: 37%;
+}
+
+.rata:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.rata {
+    position: fixed;
+    top: 76%;
+    right: 53%;
+}
+
+.serpiente:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.serpiente {
+    position: fixed;
+    top: 67%;
+    right: 42%;
+}
+
+.vaca:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.vaca {
+    position: fixed;
+    top: 77%;
+    right: 37%;
+}
+
+.zorro:hover{
+    filter:drop-shadow(0 0 1rem #f00);
+}
+
+.zorro {
+    position: fixed;
+    top: 90%;
+    right: 49%;
+}
+
+
+/*
+.zoo {
+    top: 50px;
+    z-index: 100;
+    position: fixed;
+    left: 50px;
+}
+*/
