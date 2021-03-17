@@ -28,15 +28,7 @@ a {
     text-decoration: none;
 }
 
-.ardilla:hover{
-    filter:drop-shadow(0 0 1rem #f00);
-}
 
-.ardilla {
-    position: fixed;
-    top: 85%;
-    right: 32%;
-}
 
 .caballo:hover{
     filter:drop-shadow(0 0 1rem #f00);
@@ -78,15 +70,7 @@ a {
     right: 29%;
     }
 
-.delfin:hover{
-    filter:drop-shadow(0 0 1rem #f00);
-}    
-    
-.delfin {
-    position: fixed;
-    top: 80%;
-    right: 46%;
-}
+
 
 .escarabajo:hover{
     filter:drop-shadow(0 0 1rem #f00);
@@ -144,8 +128,8 @@ a {
 
 .mono {
     position: fixed;
-    top: 86%;
-    right: 66%;
+    top: 84%;
+    right: 46%;
 }
 
 .oveja:hover{
@@ -154,8 +138,8 @@ a {
 
 .oveja{
     position: fixed;
-    top: 49%;
-    right: 42%;
+    top: 89%;
+    right: 32%;
 }
 
 .perro:hover{
@@ -164,8 +148,8 @@ a {
 
 .perro {
     position: fixed;
-    top: 80%;
-    right: 60%;
+    top: 76%;
+    right: 53%;
 }
 
 .pez:hover{
@@ -194,8 +178,8 @@ a {
 
 .rata {
     position: fixed;
-    top: 76%;
-    right: 53%;
+    top: 87%;
+    right: 59%;
 }
 
 .serpiente:hover{
@@ -218,14 +202,14 @@ a {
     right: 37%;
 }
 
-.zorro:hover{
+.venado:hover{
     filter:drop-shadow(0 0 1rem #f00);
 }
 
-.zorro {
+.venado {
     position: fixed;
-    top: 90%;
-    right: 49%;
+    top: 43%;
+    right: 41%;
 }
 
 
